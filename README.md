@@ -54,7 +54,7 @@
 ## Скриншоты
 
 - **Главный экран приложения**:
-  ![Главный экран](https://github.com/your-username/dz3_mod-3/screenshots/main_screen.png)
+   ![image](https://github.com/user-attachments/assets/db21fae8-efcb-445a-a67e-bbdc250878fe)
 
 - **Экран с новыми уравнениями после обновления**:
   ![image](https://github.com/user-attachments/assets/76af3c53-dc26-48ef-9980-ef6b96f1c3b2)
