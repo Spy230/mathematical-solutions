@@ -57,7 +57,7 @@
    ![image](https://github.com/user-attachments/assets/db21fae8-efcb-445a-a67e-bbdc250878fe)
 
 - **Экран с новыми уравнениями после обновления**:
-  ![image](https://github.com/user-attachments/assets/76af3c53-dc26-48ef-9980-ef6b96f1c3b2)
+  ![image](https://github.com/user-attachments/assets/3666b412-b4ec-418c-8187-849d32cc7bb8)
 
 ## Установка и Запуск
 
