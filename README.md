@@ -65,5 +65,5 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/dz3_mod-3.git
+   git clone  https://github.com/Spy230/mathematical-solutions/tree/master
  
